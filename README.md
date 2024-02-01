@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Soy de Perú, tengo 26 años amante de los programación y la tecnología. Actualmente estoy enfocado en desarrollo web full stack, sistemas, metodologías AGILE y aprender nuevas tecnologías para explotarlas. Este año 2022, redescubrí mi pasión por la programación y obtuve una certificación de desarrollador web full stack, quiero compartir con ustedes mis habilidades. ¡¡Bienvenidos!!
+  Soy de Perú, tengo 28 años amante de los programación y la tecnología. Actualmente estoy enfocado en desarrollo web full stack, sistemas, metodologías AGILE y aprender nuevas tecnologías para explotarlas. El año 2022, redescubrí mi pasión por la programación y obtuve una certificación de desarrollador web full stack, quiero compartir con ustedes mis habilidades. ¡¡Bienvenidos!!
 </p>
 
 <h3 align="left">Tecnologias y Herramientas:</h3>
